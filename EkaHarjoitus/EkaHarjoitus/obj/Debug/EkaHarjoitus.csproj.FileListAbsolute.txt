@@ -1,0 +1,10 @@
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.exe.config
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.exe
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\bin\Debug\EkaHarjoitus.pdb
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csprojAssemblyReference.cache
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.Form1.resources
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.Properties.Resources.resources
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csproj.GenerateResource.cache
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.exe
+C:\Users\jyrilindroos\source\repos\EkaHarjoitus\EkaHarjoitus\obj\Debug\EkaHarjoitus.pdb
